@@ -1,4 +1,4 @@
-package com.example.excel.excel;
+package com.example.excel.util;
 
 import com.google.zxing.*;
 import com.google.zxing.common.BitMatrix;

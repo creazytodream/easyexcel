@@ -1,6 +1,6 @@
 package com.example.excel;
 
-import com.example.excel.excel.QRCodeUtil;
+import com.example.excel.util.QRCodeUtil;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
