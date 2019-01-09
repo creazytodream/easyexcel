@@ -21,3 +21,19 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/target/
+/LICENSE
+/mvnw.cmd
+/mvnw
+.idea/
+excel.iml
+src/main/java/com/example/excel/dao/
+src/main/java/com/example/excel/model/
+src/main/java/com/example/excel/service/
+src/main/resources/static/
+src/main/resources/templates/
+target/classes/
+target/generated-sources/
+target/generated-test-sources/
+/.mvn/
+/src/main/resources/rebel.xml
